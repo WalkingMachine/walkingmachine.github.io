@@ -1,0 +1,12 @@
+partner:
+  plat:
+    xsense:
+      name: "some name"
+      logo: "some url to the logo"
+      description: "some description for the partner"
+  gold:
+    some_partner:
+      name:
+      logo:
+      description:
+  

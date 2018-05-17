@@ -20,9 +20,7 @@ To accomplish this really big project we have divided our entire team in differe
 
 # [Electrical](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+%C3%89L%C3%89%22)
 
-* Implement the CanOpen protocol for most of the hardware
 * Rewire the entire robot in order to make it more accessible and simple, for repairs
-* Add sound localization capabilities
 
 # [Software](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+LOG%22)
 

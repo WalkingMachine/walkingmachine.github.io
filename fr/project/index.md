@@ -22,9 +22,7 @@ Pour accomplir ce merveilleux projet, nous avons séparé notre équipe en diff�
 
 # [Electrique](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+%C3%89L%C3%89%22)
 
-* Implémenter le protocole CanOpen pour la communication avec la majorité des pièces composants S.A.R.A
 * Optimiser le câblage interne
-* Concevoir un système de localisation du son
 
 # [Logiciel](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+LOG%22)
 
